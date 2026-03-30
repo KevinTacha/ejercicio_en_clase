@@ -1,6 +1,9 @@
 # Informe de Laboratorio - Sistemas Digitales con Arduino
 **Presentado por:** Kevin Alejandro Tacha Herrera & Karol Vanessa Rojas Gil  
 **Herramienta de simulación:** [Tinkercad](https://www.tinkercad.com)
+
+---
+LINK DE ESTE REPOSITORIO:https://github.com/rojas-karol/ejercicio_en_clase.git
 ---
 
 ## Proyecto 1 - Compuertas Lógicas con pulsadores
@@ -317,4 +320,6 @@ void loop()
 
 ### Imagen del circuito
 
-> _Inserta aquí las capturas de pantalla del montaje_
+<p align="center">
+<img src="imagenes/imgcompuerta1.png" width="500">
+</p>
