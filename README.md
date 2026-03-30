@@ -108,7 +108,10 @@ void loop()
 
 ### Imagen del circuito
 
-> _Inserta aquí las capturas de pantalla del montaje_
+<p align="center">
+<img src="imagenes/imagen1.png" width="500">
+<p/>
+
 
 ---
 
@@ -239,8 +242,9 @@ void loop() {
 
 ### Imagen del circuito
 
-> _Inserta aquí las capturas de pantalla del montaje_
-
+<p align="center">
+<img src="imagenes/imagen2.png" width="500">
+<p/>
 ---
 
 ## Proyecto 3 - Semáforo
@@ -317,4 +321,6 @@ void loop()
 
 ### Imagen del circuito
 
-> _Inserta aquí las capturas de pantalla del montaje_
+<p align="center">
+<img src="imagenes/imagen3.png" width="500">
+<p/>
